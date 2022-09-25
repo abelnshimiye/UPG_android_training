@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">UPG2</string>
+    <string name="open">Open</string>
+    <string name="open1">OPEN</string>
+
+
+    <string-array name="programming_languages">
+        <item>Python</item>
+        <item>Java</item>
+        <item>Ruby</item>
+        <item>HTML</item>
+        <item>JavaScript</item>
+        <item>C Language</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>Object-C</item>
+        <item>php</item>
+        <item>SQL</item>
+        <item>Swift</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.  </item>
+        <item>Java is a high-level, class-based, object-oriented programming language that is designedto have as few implementation dependencies as possible.</item>
+        <item>Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms It was designed with an emphas</item>
+        <item>The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by </item>
+        <item>JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As </item>
+        <item>C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. </item>
+        <item>C++ is a general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or "C with Classes".</item>
+        <item>C# (pronounced "See Sharp") is a modern, object-oriented, and type-safe programming language. C# enables developers to build many types of secure and robust applications</item>
+        <item>Objective-C is a general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language. Originally developed by Brad .</item>
+        <item>PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994. The PHP referenc</item>
+        <item>SQL "sequel"; Structured Query Language) is a domain-specific language used in programming and designed for managing data held in a relational database management system </item>
+        <item>Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. and the open-source community. </item>
+
+    </string-array>
+
+
+</resources>
